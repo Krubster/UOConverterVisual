@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: ru.alastar.desktop.DesktopLauncher.class
+Main-Class: ru.alastar.desktop.DesktopLauncher
+
